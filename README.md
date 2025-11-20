@@ -1,5 +1,5 @@
 # Dynamic Time Handling For Traffic Optimization
-# Dynamic Time Handling For Traffic Optimization
+## Dynamic Time Handling For Traffic Optimization
 
 This project aims to make traffic lights smarter! Instead of fixed timings, it uses a computer model (specifically, a Random Forest model) to predict the best green light duration for each direction at an intersection (Fourway or threeway) based on how much traffic there is. The goal is to reduce traffic jams and make traffic flow smoother.
 
